@@ -31,7 +31,7 @@ Add this to your module's `build.gradle` file (make sure the version matches the
 ```gradle
 dependencies {
 	...
-	implementation 'com.github.Shashank02051997:FancyGifDialog-Android:1.5'
+	implementation 'com.github.maga9595:NewTest.project:1.6'
 }
 ```
 ## Fancy Gif Dialog
